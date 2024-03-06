@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2024-03-06T11:49:42.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.1" etag="LI_UvdWV7oK4Wk4XqEbu" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-06T12:24:49.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fSPuuKCnOPBaavZrsRSc" version="24.0.1" type="github">
   <diagram name="Страница — 1" id="PqA5zgtxyubHgHUHDZYV">
-    <mxGraphModel>
+    <mxGraphModel dx="1674" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fbnM2vCAc1sRDq9dKVaV-2" target="fbnM2vCAc1sRDq9dKVaV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-2" value="&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&quot;Привет! Это {Имя менеджера} компании &quot;GEONA&quot;. ������ Благодарим за обращение!&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Для того, чтобы быстро подобрать вам точную цену, пожалуйста, предложите, какие двери вас интересуют: ������������&quot;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="30" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fbnM2vCAc1sRDq9dKVaV-5" target="fbnM2vCAc1sRDq9dKVaV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-5" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ответ&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fbnM2vCAc1sRDq9dKVaV-13" target="fbnM2vCAc1sRDq9dKVaV-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-13" value="&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Так же подскажите, пожалуйста, есть ли у вас дизайн проекта или такие же настройки параметров модели? &lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;������������&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fbnM2vCAc1sRDq9dKVaV-15" target="fbnM2vCAc1sRDq9dKVaV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-15" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ответ&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fbnM2vCAc1sRDq9dKVaV-16" target="fbnM2vCAc1sRDq9dKVaV-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-16" value="&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Какое количество дверей вам требуется? ������&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="740" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fbnM2vCAc1sRDq9dKVaV-17" target="fbnM2vCAc1sRDq9dKVaV-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-17" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ответ&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbnM2vCAc1sRDq9dKVaV-18" target="fbnM2vCAc1sRDq9dKVaV-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-18" value="&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Хорошо! &lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;������ Для вас мы собрали эксперты, которые с удовольствием подберут несколько вариантов разных ценовых категорий под ваш дизайн. &lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Вы можете приехать сегодня по адресу? &lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;������������Мы ждем вас! &lt;/font&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;������&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1120" width="260" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fbnM2vCAc1sRDq9dKVaV-28" target="fbnM2vCAc1sRDq9dKVaV-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-34" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;ДА&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fbnM2vCAc1sRDq9dKVaV-30">
+          <mxGeometry x="-0.0095" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fbnM2vCAc1sRDq9dKVaV-28" target="fbnM2vCAc1sRDq9dKVaV-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-35" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;Нет&lt;/font&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fbnM2vCAc1sRDq9dKVaV-33">
+          <mxGeometry x="-0.0917" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-28" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1440" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-31" value="&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;*сбрасывает адрес филиала*&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;*переход на менеджера*&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1570" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fbnM2vCAc1sRDq9dKVaV-32" value="&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot;&gt;������ Понял вас! В ближайшее время с вами свяжется менеджер и сориентирует вас по стоимости. Пока вы ждете, можете ознакомиться с нашим каталогом! ������������&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1570" width="240" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
